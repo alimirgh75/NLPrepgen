@@ -1,0 +1,4 @@
+datasets used: clef2018, clef2019, clef2020, vqa-radno pretrain
+
+
+MMBERT training 2022-05-20 21:36:31.231165
