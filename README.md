@@ -1,2 +1,2 @@
 # NLPrepgen
-developing a medical report generation for Chest-Xrays
+Developing a medical report generation for Chest-Xrays
